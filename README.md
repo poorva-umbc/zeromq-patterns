@@ -12,11 +12,7 @@ connect to each other and flow of communication between them. These patterns are
 
 We will run through each of the pattern with an example. 
 
-.. toctree::
-   :maxdepth: 2
-   
    PAIR      <pair.rst>
-   Client/Server <client_server.rst>
    Publish/Subscribe <pubsub.rst>
    Push/Pull      <pushpull.rst>
    
